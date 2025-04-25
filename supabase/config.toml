@@ -1,0 +1,5 @@
+
+project_id = "wjlonkphtcrkleerrgtj"
+
+[functions.update-crop-prices]
+verify_jwt = false
